@@ -8,3 +8,10 @@
 
 **Link to work:** [CodingBat Python Warmup-1](https://codingbat.com/python/Warmup-1)
 
+### Day 1: January 2, 2022
+
+**Today's Progress**: Worked through CodingBat Python Warmup-2 problems.
+
+**Thoughts:** Need to review loops
+
+**Link to work:** [CodingBat Python Warmup-2](https://codingbat.com/python/Warmup-2)
