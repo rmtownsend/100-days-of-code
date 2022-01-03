@@ -15,3 +15,11 @@
 **Thoughts:** Need to review loops
 
 **Link to work:** [CodingBat Python Warmup-2](https://codingbat.com/python/Warmup-2)
+
+### Day 2: January 3, 2022
+
+**Today's Progress**: Worked through CodingBat Python String-1 and List-1 problems.
+
+**Thoughts:** ...
+
+**Link to work:** [CodingBat Python String-1](https://codingbat.com/python/String-1) and [CodingBat Python List-1](https://codingbat.com/python/List-1)
