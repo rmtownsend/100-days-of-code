@@ -23,3 +23,11 @@
 **Thoughts:** ...
 
 **Link to work:** [CodingBat Python String-1](https://codingbat.com/python/String-1) and [CodingBat Python List-1](https://codingbat.com/python/List-1)
+
+### Day 3: January 4, 2022
+
+**Today's Progress**: Worked through CodingBat Python Logic-1 and String-2 problems.
+
+**Thoughts:** These problems are definitely getting easier and I'm spending less time looking things up.
+
+**Link to work:** [CodingBat Python Logic-1](https://codingbat.com/python/Logic-1) and [CodingBat Python String-2](https://codingbat.com/python/String-2)
