@@ -39,3 +39,11 @@
 **Thoughts:** ...
 
 **Link to work:** [CodingBat Python Logic-2](https://codingbat.com/python/Logic-2)
+
+### Day 5: January 6, 2022
+
+**Today's Progress**: Worked through CodingBat Python List-2 problems.
+
+**Thoughts:** Yay! Got through all of the CodingBat Python practice problems. 
+
+**Link to work:** [CodingBat Python List-2](https://codingbat.com/python/List-2)
