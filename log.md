@@ -47,3 +47,11 @@
 **Thoughts:** Yay! Got through all of the CodingBat Python practice problems. 
 
 **Link to work:** [CodingBat Python List-2](https://codingbat.com/python/List-2)
+
+### Day 6: January 7, 2022
+
+**Today's Progress**: Continued FreeCodeCamp Data Analytics with Python course. Went through a few videos and got Jupyter Notebooks and JupyterLab installed and ran through exercises.
+
+**Thoughts:** One week down!
+
+**Link to work:** NA
