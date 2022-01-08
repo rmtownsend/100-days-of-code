@@ -55,3 +55,11 @@
 **Thoughts:** One week down!
 
 **Link to work:** NA
+
+### Day 7: January 8, 2022
+
+**Today's Progress**: Walked through web scraping w/ BeautifulSoup tutorial
+
+**Thoughts:** Useful to go through tutorial, should try doing more on my own.
+
+**Link to work:** [Web Scraping with BeautifulSoup](https://www.library.upenn.edu/blogs/rdds/scraping-open-data-web-beautifulsoup) tutorial from Penn Libraries
