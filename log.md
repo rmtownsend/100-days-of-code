@@ -63,3 +63,14 @@
 **Thoughts:** Useful to go through tutorial, should try doing more on my own.
 
 **Link to work:** [Web Scraping with BeautifulSoup](https://www.library.upenn.edu/blogs/rdds/scraping-open-data-web-beautifulsoup) tutorial from Penn Libraries
+
+### Day 8: January 9, 2022
+
+**Today's Progress**: Continued FreeCodeCamp Data Analytics with Python course - numPy tutorials
+
+**Thoughts:** ...
+
+**Link to work:** NA
+
+
+
