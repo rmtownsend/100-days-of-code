@@ -72,5 +72,11 @@
 
 **Link to work:** NA
 
+### Day 9: January 10, 2022
 
+**Today's Progress**: Exercise file from FreeCodeCamp Data Analytics with Python course - numPy tutorials, then additional exercises & reading the docs
+
+**Thoughts:** ...
+
+**Link to work:** Tried some problems [here](https://www.w3resource.com/python-exercises/numpy/index-array.php) and reading the docs [here](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
