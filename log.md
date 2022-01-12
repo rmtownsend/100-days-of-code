@@ -80,3 +80,10 @@
 
 **Link to work:** Tried some problems [here](https://www.w3resource.com/python-exercises/numpy/index-array.php) and reading the docs [here](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
+### Day 10: January 11, 2022
+
+**Today's Progress**: FreeCodeCamp Data Analytics with Python course: Panda series videos and exercises
+
+**Thoughts:** Relieved that this actually makes sense so far and builds on things I've already learned. Also, will always be excited to learn about something called pandas, even if it's not the cute animal :panda_face:
+
+**Link to work:** Link to course jupyter notebooks for course on [github](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
