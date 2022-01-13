@@ -87,3 +87,11 @@
 **Thoughts:** Relieved that this actually makes sense so far and builds on things I've already learned. Also, will always be excited to learn about something called pandas, even if it's not the cute animal :panda_face:
 
 **Link to work:** Link to course jupyter notebooks for course on [github](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
+
+### Day 11: January 12, 2022
+
+**Today's Progress**: FreeCodeCamp Data Analytics with Python course: Panda dataframes videos and exercises
+
+**Thoughts:** Getting a bit confused about the ways of indexing but generally following. Very excited to see how I can use this for cleaning up data.
+
+**Link to work:** Link to course jupyter notebooks for course on [github](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
