@@ -95,3 +95,11 @@
 **Thoughts:** Getting a bit confused about the ways of indexing but generally following. Very excited to see how I can use this for cleaning up data.
 
 **Link to work:** Link to course jupyter notebooks for course on [github](https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-pandas)
+
+### Day 12: January 13, 2022
+
+**Today's Progress**: FreeCodeCamp Data Analytics with Python course: Cleaning data
+
+**Thoughts:** 
+
+**Link to work:** 
