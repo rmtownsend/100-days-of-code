@@ -103,3 +103,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 13: January 14, 2022
+
+**Today's Progress**: FreeCodeCamp Data Analytics with Python course: reading in data. Practiced reading in html table and data from LA City open data API to practice. 
+
+**Thoughts:** 
+
+**Link to work:** 
