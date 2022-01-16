@@ -111,3 +111,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 14: January 15, 2022
+
+**Today's Progress**: FreeCodeCamp Data Analytics with Python course: Python intro. Looked a little more at the LA City data about fire station calls and responses.
+
+**Thoughts:** Interesting to explore real data. Part of what I need to learn is how to make sure I understand what data is saying/what I expect to see (for example, tried making plots today, could tell something was wrong, but not entirely sure what). Also was relieved that I actually followed/already knew most of what was covered in the Intro to Python section - I kind of know some things!
+
+**Link to work:** 
