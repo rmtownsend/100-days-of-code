@@ -128,3 +128,10 @@
 
 **Link to work:** Free Code Camp Responsive Web Design [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
+### Day 16: January 17, 2022
+
+**Today's Progress**: FreeCodeCamp Basic CSS course (part of Responsive Web Design curriculum).
+
+**Thoughts:** Continuing with the basics of web design.
+
+**Link to work:** Free Code Camp Responsive Web Design [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
