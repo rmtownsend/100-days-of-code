@@ -119,3 +119,12 @@
 **Thoughts:** Interesting to explore real data. Part of what I need to learn is how to make sure I understand what data is saying/what I expect to see (for example, tried making plots today, could tell something was wrong, but not entirely sure what). Also was relieved that I actually followed/already knew most of what was covered in the Intro to Python section - I kind of know some things!
 
 **Link to work:** 
+
+### Day 15: January 16, 2022
+
+**Today's Progress**: FreeCodeCamp Basic HTML and HTML5 course (part of Responsive Web Design curriculum).
+
+**Thoughts:** Was feeling a little stuck and demotivated so decided to switch things up. I've done some web development tutorials before so most of this was familiar but sometimes it's helpful to go back to the basics and get a firm foundation. 
+
+**Link to work:** Free Code Camp Responsive Web Design [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+
