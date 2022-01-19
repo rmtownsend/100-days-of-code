@@ -135,3 +135,12 @@
 **Thoughts:** Continuing with the basics of web design.
 
 **Link to work:** Free Code Camp Responsive Web Design [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+
+### Day 17: January 18, 2022
+
+**Today's Progress**: FreeCodeCamp Applied Visual Design course (part of Responsive Web Design curriculum).
+
+**Thoughts:** Continuing with the basics of web design and fun things you can do with CSS. I didn't know how much it could be used for graphics/animation!
+
+**Link to work:** Free Code Camp Responsive Web Design [Applied Visual Design](
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
