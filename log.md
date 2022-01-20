@@ -142,5 +142,12 @@
 
 **Thoughts:** Continuing with the basics of web design and fun things you can do with CSS. I didn't know how much it could be used for graphics/animation!
 
-**Link to work:** Free Code Camp Responsive Web Design [Applied Visual Design](
-https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+**Link to work:** Free Code Camp Responsive Web Design [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+### Day 18: January 19, 2022
+
+**Today's Progress**: Did some practice with Pandas and looping through arrays for a work task (comparing membership two LDAP groups).
+
+**Thoughts:** Fun to practice some of what I've learned for an actual use! Still some room for improvement - I could clean the data better and also output it in a more useful format. It would be good to have some reusable code for this type of task because it's something that comes up fairly frequently and seems simple but takes some thought depending on exactly what you want.
+
+**Link to work:** NA
