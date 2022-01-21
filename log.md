@@ -126,7 +126,7 @@
 
 **Thoughts:** Was feeling a little stuck and demotivated so decided to switch things up. I've done some web development tutorials before so most of this was familiar but sometimes it's helpful to go back to the basics and get a firm foundation. 
 
-**Link to work:** Free Code Camp Responsive Web Design [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+**Link to work:** FreeCodeCamp Responsive Web Design [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
 ### Day 16: January 17, 2022
 
@@ -134,7 +134,7 @@
 
 **Thoughts:** Continuing with the basics of web design.
 
-**Link to work:** Free Code Camp Responsive Web Design [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+**Link to work:** FreeCodeCamp Responsive Web Design [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 ### Day 17: January 18, 2022
 
@@ -142,7 +142,7 @@
 
 **Thoughts:** Continuing with the basics of web design and fun things you can do with CSS. I didn't know how much it could be used for graphics/animation!
 
-**Link to work:** Free Code Camp Responsive Web Design [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+**Link to work:** FreeCodeCamp Responsive Web Design [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
 ### Day 18: January 19, 2022
 
@@ -151,3 +151,11 @@
 **Thoughts:** Fun to practice some of what I've learned for an actual use! Still some room for improvement - I could clean the data better and also output it in a more useful format. It would be good to have some reusable code for this type of task because it's something that comes up fairly frequently and seems simple but takes some thought depending on exactly what you want.
 
 **Link to work:** NA
+
+### Day 19: January 20, 2022
+
+**Today's Progress**: FreeCodeCamp Responsive Web Design Applied Accessibility class
+
+**Thoughts:** This covered a lot of things that I vaguely knew but didn't concretely know how to address or exactly what mattered.
+
+**Link to work:** FreeCodeCamp Responsive Web Design [Applied Accessilibity](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
