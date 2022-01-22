@@ -159,3 +159,11 @@
 **Thoughts:** This covered a lot of things that I vaguely knew but didn't concretely know how to address or exactly what mattered.
 
 **Link to work:** FreeCodeCamp Responsive Web Design [Applied Accessilibity](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/)
+
+### Day 20: January 21, 2022
+
+**Today's Progress**: FreeCodeCamp Responsive Web Design Responsive Web Design Principles and CSS Flexbox
+
+**Thoughts:** Friday night coding calls for a drink 🍻
+
+**Link to work:** FreeCodeCamp Responsive Web Design [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/) and [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/) 
