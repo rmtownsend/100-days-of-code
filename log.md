@@ -167,3 +167,11 @@
 **Thoughts:** Friday night coding calls for a drink 🍻
 
 **Link to work:** FreeCodeCamp Responsive Web Design [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/) and [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/) 
+
+### Day 21: January 23, 2022
+
+**Today's Progress**: Missed a day but getting right back into it. Trying something fun and taking this week's new puzzle from npr's weekend edition and using code to help solve! Includes importing data into Pandas, loops, permutations, and checking againsta list of words.
+
+**Thoughts:** Fun to have a problem to solve. Need to review indexing in Pandas/how to loop through effectively.
+
+**Link to work:** NA
