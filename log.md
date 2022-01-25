@@ -175,3 +175,11 @@
 **Thoughts:** Fun to have a problem to solve. Need to review indexing in Pandas/how to loop through effectively.
 
 **Link to work:** NA
+
+### Day 23: January 25, 2022
+
+**Today's Progress**: Missed another day, back again. Went through the Puzzle code again, cleaned it up, and added more explanation to the Jupyter notebook. Then put it on GitHub which was more of a struggle than it should have been.
+
+**Thoughts:** Would be fun to do this again for future puzzles!
+
+**Link to work:** [npr-puzzles repository](https://github.com/rmtownsend/npr-puzzles)
