@@ -183,3 +183,11 @@
 **Thoughts:** Would be fun to do this again for future puzzles!
 
 **Link to work:** [npr-puzzles repository](https://github.com/rmtownsend/npr-puzzles)
+
+### Day 24: January 26, 2022
+
+**Today's Progress**: FreeCodeCamp Responsive Web Design CSS Grid
+
+**Thoughts:** ...
+
+**Link to work:** FreeCodeCamp Responsive Web Design [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
