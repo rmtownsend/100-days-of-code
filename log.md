@@ -191,3 +191,11 @@
 **Thoughts:** ...
 
 **Link to work:** FreeCodeCamp Responsive Web Design [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
+
+### Day 25: January 27, 2022
+
+**Today's Progress**: Started looking at Django
+
+**Thoughts:** I thought it would be interesting to learn a Python web framework after learning some Python and learning some web stuff. Minimal exploration makes me not so sure but I'll do more tomorrow 😅
+
+**Link to work:** 
